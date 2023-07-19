@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently looking for job as Data analyst & machine learning engineer <br>🤝 I'm looking for help with honing my skills on ML and DL projects<br>🌱 I’m currently learning SQL, Python and data analytics<br>💬 I used be a Methods analyst in Manufacturing engineering Dept. in LucasTVS<br>
+🔭 Associate in Data Engineering at Cloud Destinations <br>🤝 I'm looking for help with honing my skills on ML and DL projects<br>🌱 I’m currently learning SQL, Python and data analytics<br>💬 I used be a Methods analyst in Manufacturing engineering Dept. in LucasTVS<br>
 
 
 ## 🌐 Socials:
